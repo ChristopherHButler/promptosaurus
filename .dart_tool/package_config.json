@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "promptosaurus",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-02-15T13:13:42.976850Z",
+  "generator": "pub",
+  "generatorVersion": "2.7.1"
+}
